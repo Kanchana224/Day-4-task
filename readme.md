@@ -1,1 +1,1 @@
-Task 4 completed.
+Functions oriented sums.
